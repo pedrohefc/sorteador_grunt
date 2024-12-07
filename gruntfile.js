@@ -57,7 +57,7 @@ module.exports = function(grunt) {
                         {
                             match:'ENDEREÇO_DO_CSS',
                             replacement:'./styles/main.min.css'
-                        }
+                        },
                         {
                             match:'ENDEREÇO_DO_JS',
                             replacement:'.scripts/main.min.js'
