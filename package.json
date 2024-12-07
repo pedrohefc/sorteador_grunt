@@ -5,6 +5,7 @@
   "scripts": {
     "grunt": "grunt",
     "build": "grunt build",
+    "pedro": "grunt pedro",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
