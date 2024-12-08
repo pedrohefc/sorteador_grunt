@@ -60,7 +60,7 @@ module.exports = function(grunt) {
                         },
                         {
                             match:'ENDEREÇO_DO_JS',
-                            replacement:'.scripts/main.min.js'
+                            replacement:'../dist/scripts/main.min.js'
                         }
                     ]
                 },
